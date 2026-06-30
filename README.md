@@ -112,7 +112,7 @@ Kathmandu, Nepal
 
 ### 🌟 Another Favorite
 
-> **"The future belongs to those who never stop learning."**
+> **"The future belongs to those who never stop."**
 
 ---
 
