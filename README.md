@@ -2,19 +2,15 @@
 
 # Hi There 👋, I'm **Keshab BC**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;CSIT+Student;AI+Enthusiast;Web+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;CSIT+Student;AI+Enthusiast;Web+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <p>
 <a href="https://keshabbc.com.np">
 <img src="https://img.shields.io/badge/Portfolio-keshabbc.com.np-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="mailto:keshab143@gmail.com">
-<img src="https://img.shields.io/badge/Email-keshab143@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" />
+<a href="https://github.com/keshabbc">
+<img src="https://komarev.com/ghpvc/?username=keshabbc&style=for-the-badge&color=blue" />
 </a>
 
 </p>
