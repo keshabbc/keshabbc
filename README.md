@@ -2,7 +2,7 @@
 
 # 👋 Hi There, I'm <span style="color:#58A6FF;">Keshab BC</span>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=850&lines=Full+Stack+Developer;CSIT+Student;AI+Enthusiast;Open+Source+Learner;Building+Useful+Digital+Products" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=850&lines=Frontend+Developer;CSIT+Student;AI+Enthusiast;Open+Source+Learner;Building+Useful+Digital+Products" alt="Typing SVG"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:58A6FF&height=250&section=header&text=Welcome%20to%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20CSIT%20Student&descAlignY=58&descSize=18"/>
 
