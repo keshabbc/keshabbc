@@ -12,16 +12,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=keshabbc&label=Profile+Views&style=for-the-badge&color=0E75B6)
-
-![](https://img.shields.io/github/followers/keshabbc?style=for-the-badge&logo=github&color=181717)
-
-![](https://img.shields.io/github/stars/keshabbc?affiliations=OWNER&style=for-the-badge&logo=github&color=FFD700)
-
-![](https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge)
-
-![](https://img.shields.io/badge/Profile-2026-blueviolet?style=for-the-badge)
-
+![](https://komarev.com/ghpvc/?username=keshabbc&label=Profile+Views&style=for-the-badge&color=0E75B6) ![](https://img.shields.io/github/followers/keshabbc?style=for-the-badge&logo=github&color=181717) ![](https://img.shields.io/github/stars/keshabbc?affiliations=OWNER&style=for-the-badge&logo=github&color=FFD700) ![](https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge) ![](https://img.shields.io/badge/Profile-2026-blueviolet?style=for-the-badge)
 </div>
 
 ---
@@ -39,7 +30,7 @@ I enjoy creating modern web applications, AI-powered tools, and solving real-wor
 I'm constantly exploring new technologies and improving my development skills every day.
 
 - 🎓 Bachelor of CSIT Student
-- 💻 Full Stack Developer
+- 💻 Frontend Developer
 - 🤖 AI Enthusiast
 - 🌱 Learning AI & Machine Learning
 - 🚀 Open Source Learner
@@ -131,7 +122,7 @@ Kathmandu, Nepal
 ## 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,java" />
+<img src="https://skillicons.dev/icons?i=c,c,python,javascript" />
 </p>
 
 ---
@@ -139,31 +130,7 @@ Kathmandu, Nepal
 ## 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,vite" />
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,npm" />
-</p>
-
----
-
-## 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
-</p>
-
----
-
-## 🤖 AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ---
@@ -171,7 +138,7 @@ Kathmandu, Nepal
 ## 🛠️ Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,linux,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
 </p>
 
 </div>
@@ -260,11 +227,9 @@ Kathmandu, Nepal
 
 | Statistics | Value |
 |------------|-------|
-| 💻 Programming Languages | C, C++, Python, JavaScript, TypeScript |
-| 🌐 Frontend | HTML, CSS, React, Next.js, Tailwind CSS |
-| ⚙️ Backend | Node.js, Express.js |
-| 🗄️ Databases | PostgreSQL, MySQL, MongoDB |
-| 🛠️ Tools | Git, GitHub, VS Code, Docker, Postman |
+| 💻 Programming Languages | C, Python, JavaScript |
+| 🌐 Frontend | HTML, CSS|
+| 🛠️ Tools | Git, GitHub, VS Code |
 | 🎓 Education | Bachelor of CSIT |
 | 📍 Location | Kathmandu, Nepal |
 | 🌐 Portfolio | https://keshabbc.com.np |
@@ -317,89 +282,8 @@ A modern personal portfolio website showcasing my:
 
 🌐 **Website**
 
-```text
 https://keshabbc.com.np
-```
 
----
-
-## 🎬 VHSShorts
-
-A modern short-video sharing platform inspired by Instagram Reels and TikTok.
-
-### Features
-
-- 🎥 Upload Shorts
-- ❤️ Like System
-- 💬 Comments
-- 🔁 Repost
-- 📱 Responsive UI
-- 👤 User Profiles
-- 🔔 Notifications
-- 🌙 Dark Mode
-
-### Tech Stack
-
-React • Node.js • Express • PostgreSQL
-
----
-
-## 📱 Social Media Platform
-
-A complete social media application.
-
-### Features
-
-- Posts
-- Stories
-- Reels
-- Chat
-- Notifications
-- Comments
-- Likes
-- Follow System
-- User Profiles
-
-### Tech
-
-React
-
-Node.js
-
-Express
-
-PostgreSQL
-
----
-
-## 🤖 AI Video Editor
-
-An AI-powered platform to simplify video editing.
-
-### Planned Features
-
-- AI Caption Generator
-- AI Script Generator
-- AI Voice
-- AI Thumbnail Generator
-- AI Background Removal
-- AI Shorts Generator
-
----
-
-## 📊 React Dashboard
-
-Professional Admin Dashboard
-
-### Includes
-
-- Charts
-- Analytics
-- User Management
-- Authentication
-- Responsive Design
-
----
 
 # 🎓 Education
 
@@ -429,32 +313,17 @@ Professional Admin Dashboard
 
 # 💼 Experience
 
-## 💻 Freelance Developer
+## 💻 Developer
 
-Working on personal projects and freelance web development.
+Working on personal projects,.
 
 ### Responsibilities
 
 - Responsive Websites
 - UI Development
 - Frontend Applications
-- Backend APIs
-- Database Design
-
 ---
 
-## 🌱 Current Learning
-
-Currently improving my knowledge in
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Full Stack Development
-- System Design
-- Cloud Computing
-
----
 
 # 🎯 2026 Goals
 
@@ -541,7 +410,7 @@ My goal is to create projects that help developers, students, and businesses whi
 - 🌙 Dark mode is my favorite.
 - 🤖 AI fascinates me.
 - 📚 Every day is an opportunity to learn.
-- ☕ Coffee + Coding = Productivity.
+- 🧠 Think + Coding = Productivity.
 
 # 🐍 Contribution Snake
 
@@ -555,17 +424,6 @@ My goal is to create projects that help developers, students, and businesses whi
 
 </div>
 
----
-
-# 📅 Contribution Calendar
-
-<div align="center">
-
-> Every green square represents a step forward in my journey as a developer.
-
-</div>
-
----
 
 # 🌱 Currently Learning
 
@@ -573,11 +431,12 @@ My goal is to create projects that help developers, students, and businesses whi
 
 | 🚀 Area | 📖 Status |
 |---------|-----------|
-| Artificial Intelligence | 🟢 Learning |
-| Machine Learning | 🟢 Learning |
-| Next.js | 🟢 Learning |
-| PostgreSQL | 🟢 Learning |
-| Docker | 🟢 Learning |
+| Python | 🟢 Learning |
+| Artificial Intelligence | 🟡 Planned |
+| Machine Learning | 🟡 Planned |
+| Next.js |🟡 Planned |
+| PostgreSQL | 🟡 Planned |
+| Docker | 🟡 Planned |
 | Cloud Computing | 🟡 Planned |
 | DevOps | 🟡 Planned |
 
@@ -658,10 +517,6 @@ Reading ████████
 
 <a href="https://keshabbc.com.np">
 <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge"/>
-</a>
-
-<a href="mailto:keshabbit143@gmail.com">
-<img src="https://img.shields.io/badge/📧 Email-Contact-red?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/keshab-bc-b77341369/">
