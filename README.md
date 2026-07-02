@@ -412,18 +412,26 @@ My goal is to create projects that help developers, students, and businesses whi
 - 📚 Every day is an opportunity to learn.
 - 🧠 Think + Coding = Productivity.
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keshabbc/keshabbc/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keshabbc/keshabbc/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/keshabbc/keshabbc/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/keshabbc/keshabbc/output/github-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/keshabbc/keshabbc/output/github-snake.svg">
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/keshabbc/keshabbc/output/github-snake-dark.svg">
+
 </picture>
 
-</div>
-
+</p>
 
 # 🌱 Currently Learning
 
