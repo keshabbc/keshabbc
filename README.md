@@ -183,9 +183,9 @@ Kathmandu, Nepal
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=keshabbc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lostcoder1-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshabbc&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lostcoder1-1&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -195,7 +195,7 @@ Kathmandu, Nepal
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=keshabbc&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=lostcoder1-1&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -205,7 +205,7 @@ Kathmandu, Nepal
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keshabbc&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lostcoder1-1&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -215,7 +215,7 @@ Kathmandu, Nepal
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=keshabbc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=lostcoder1-1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
 
 </div>
 
@@ -419,15 +419,15 @@ My goal is to create projects that help developers, students, and businesses whi
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/keshabbc/keshabbc/output/github-snake-dark.svg">
+    srcset="https://raw.githubusercontent.com/keshabbc/lostcoder1-1/output/github-snake-dark.svg">
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/keshabbc/keshabbc/output/github-snake.svg">
+    srcset="https://raw.githubusercontent.com/keshabbc/lostcoder1-1/output/github-snake.svg">
 
   <img
     alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/keshabbc/keshabbc/output/github-snake-dark.svg">
+    src="https://raw.githubusercontent.com/keshabbc/lostcoder1-1/output/github-snake-dark.svg">
 
 </picture>
 
